@@ -8,7 +8,7 @@
         {
             "id": "nintendo_music:mkworld",
             "name": "Mario Kart World",
-            "description": "Top Tracks from the Nintendo Switch 2 game Mario Kart World",
+            "description": "Featuring tracks such as Mario Bros. Circuit, Rainbow Road, and more",
             "version": "1.0.0",
             "url": "https://github.com/Argentum722/mm-nintendo-music-collection/releases/download/mkworld/mkworld-1.0.0.zip",
             "sha256": "4fe086fea3e0d2b4b12c6097fdf17d5aaf04f20ec16a79f0741d7c5caaff9bdb",
