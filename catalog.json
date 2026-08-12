@@ -14,6 +14,16 @@
             "sha256": "4fe086fea3e0d2b4b12c6097fdf17d5aaf04f20ec16a79f0741d7c5caaff9bdb",
             "size": 110976332,
             "icon": "nintendo_music:textures/album/mkworld.png"
+        },
+        {
+            "id": "nintendo_music:mkworld",
+            "name": "Kid Icarud (Famicom Disk System)",
+            "description": "Featuring tracks such as Stage 1, Reaper's Theme, and more",
+            "version": "1.0.0",
+            "url": "https://github.com/Argentum722/mm-nintendo-music-collection/releases/download/kidicarus_fds/kidicarus-fds-1.0.0.zip",
+            "sha256": "1b3be15c5c9444a98e3bf06a171e77db70014bb07cfe176da1572c7b4cb61ceb",
+            "size": 11605689,
+            "icon": "nintendo_music:textures/album/kidicarus_fds.png"
         }
     ]
 }
