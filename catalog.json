@@ -13,7 +13,7 @@
             "url": "https://github.com/Argentum722/mm-nintendo-music-collection/releases/download/mkworld/mkworld-1.0.0.zip",
             "sha256": "4fe086fea3e0d2b4b12c6097fdf17d5aaf04f20ec16a79f0741d7c5caaff9bdb",
             "size": 110976332,
-            "icon": "mkworld:textures/album/mkworld.png"
+            "icon": "nintendo_music:textures/album/mkworld.png"
         }
     ]
 }
