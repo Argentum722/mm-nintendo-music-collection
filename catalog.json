@@ -1,0 +1,19 @@
+{
+    "schema": 1,
+    "repository": {
+        "id": "nintendo_music",
+        "name": "Nintendo Music Top Tracks Collection"
+    },
+    "packs": [
+        {
+            "id": "nintendo_music:mkworld",
+            "name": "Mario Kart World",
+            "description": "Top Tracks from the Nintendo Switch 2 game Mario Kart World",
+            "version": "1.0.0",
+            "url": "",
+            "sha256": "4fe086fea3e0d2b4b12c6097fdf17d5aaf04f20ec16a79f0741d7c5caaff9bdb",
+            "size": 110976332,
+            "icon": "mkworld:textures/album/mkworld.png"
+        }
+    ]
+}
