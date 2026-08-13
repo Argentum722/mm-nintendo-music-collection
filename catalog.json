@@ -8,7 +8,7 @@
         {
             "id": "nintendo_music:mkworld",
             "name": "Mario Kart World",
-            "description": "Featuring tracks such as Mario Bros. Circuit, Rainbow Road, and more",
+            "description": "Top Tracks from Mario Kart World, originally released in 2025 for the Nintendo Switch 2",
             "version": "1.0.0",
             "url": "https://github.com/Argentum722/mm-nintendo-music-collection/releases/download/mkworld/mkworld-1.0.0.zip",
             "sha256": "4fe086fea3e0d2b4b12c6097fdf17d5aaf04f20ec16a79f0741d7c5caaff9bdb",
@@ -16,9 +16,69 @@
             "icon": "nintendo_music:textures/album/mkworld.png"
         },
         {
+            "id": "nintendo_music:zeldaph",
+            "name": "The Legend of Zelda: Phantom Hourglass",
+            "description": "Top Tracks from The Legend of Zelda: Phantom Hourglass, originally released in 2007 for the Nintendo DS",
+            "version": "1.0.0",
+            "url": "https://github.com/Argentum722/mm-nintendo-music-collection/releases/download/zeldaph/zeldaph-1.0.0.zip",
+            "sha256": "0503dd1ae5a29f5b1edad3a52f0b8329e90d43c26c7062da05a2a8d0d4ae2bed",
+            "size": 86447145,
+            "icon": "nintendo_music:textures/album/zeldaph.png"
+        },
+        {
+            "id": "nintendo_music:pkmnfrlg",
+            "name": "Pokémon FireRed Version & Pokémon LeafGreen Version",
+            "description": "Top Tracks from Pokémon FireRed Version & Pokémon LeafGreen Version, originally released in 2004 for the Game Boy Advance",
+            "version": "1.0.0",
+            "url": "https://github.com/Argentum722/mm-nintendo-music-collection/releases/download/pkmnfrlg/pkmnfrlg-1.0.0.zip",
+            "sha256": "871c338fe029f8b130e8e9cbbeadf690de1d389bb386939a678001ff055f2139",
+            "size": 78785144,
+            "icon": "nintendo_music:textures/album/pkmnfrlg.png"
+        },
+        {
+            "id": "nintendo_music:starfox64",
+            "name": "",
+            "description": "Top Tracks from Star Fox 64, originally released in 1997 for the Nintendo 64",
+            "version": "1.0.0",
+            "url": "https://github.com/Argentum722/mm-nintendo-music-collection/releases/download/starfox64/starfox64-1.0.0.zip",
+            "sha256": "8f940e8b5f67a739cfe6e87cee11124db8824963fdc08e8bdea1a6eb5d7a59b1",
+            "size": 56105431,
+            "icon": "nintendo_music:textures/album/starfox64.png"
+        },
+        {
+            "id": "nintendo_music:teleroboxer",
+            "name": "Teleroboxer",
+            "description": "Top Tracks from Teleroboxer, originally released in 1995 for the Virtual Boy",
+            "version": "1.0.0",
+            "url": "https://github.com/Argentum722/mm-nintendo-music-collection/releases/download/teleroboxer/teleroboxer-1.0.0.zip",
+            "sha256": "86f5d58a16f09b7670f1b0357c67bd67208ce8f231525836f49676254f9cd9bc",
+            "size": 28649846,
+            "icon": "nintendo_music:textures/album/teleroboxer.png"
+        },
+        {
+            "id": "nintendo_music:dkc1",
+            "name": "Donkey Kong Country",
+            "description": "Top Tracks from Donkey Kong Country, originally released in 1994 for the Super NES",
+            "version": "1.0.0",
+            "url": "https://github.com/Argentum722/mm-nintendo-music-collection/releases/download/dkc1/dkc1-1.0.0.zip",
+            "sha256": "913567fe8d724fc4f65e8f18b2202107a505b84122c5a019f24e1db638b2522b",
+            "size": 29088998,
+            "icon": "nintendo_music:textures/album/dkc1.png"
+        },
+        {
+            "id": "nintendo_music:kirbydl",
+            "name": "Kirby's Dream Land",
+            "description": "Top Tracks from Kirby's Dream Land, originally released in 1992 for the Game Boy",
+            "version": "1.0.0",
+            "url": "https://github.com/Argentum722/mm-nintendo-music-collection/releases/download/kirbydl/kirbydl-1.0.0.zip",
+            "sha256": "528bf459189b08c5eb2170522194249402f8246f81440558dd7dcb088578c070",
+            "size": 15219441,
+            "icon": "nintendo_music:textures/album/kirbydl.png"
+        },
+        {
             "id": "nintendo_music:kidicarus_fds",
             "name": "Kid Icarus (Famicom Disk System)",
-            "description": "Featuring tracks such as Stage 1, Reaper's Theme, and more",
+            "description": "Top Tracks from Kid Icarus, originally release in 1986 for the Famicom Disk System",
             "version": "1.0.0",
             "url": "https://github.com/Argentum722/mm-nintendo-music-collection/releases/download/kidicarus_fds/kidicarus-fds-1.0.0.zip",
             "sha256": "1b3be15c5c9444a98e3bf06a171e77db70014bb07cfe176da1572c7b4cb61ceb",
